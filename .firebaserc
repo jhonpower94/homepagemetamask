@@ -1,0 +1,49 @@
+{
+  "projects": {
+    "default": "metamask-e293a",
+    "ice": "icexpress-21465",
+    "sa": "santander-fa735",
+    "bt": "bitmax-937a0",
+    "kv": "kryptovault-7b9ac"
+  },
+  "targets": {
+    "metamask-e293a": {
+      "hosting": {
+        "mm": [
+          "metamaskwallet"
+        ]
+      }
+    },
+    "icexpress-21465": {
+      "hosting": {
+        "metamask": [
+          "metamasksite"
+        ],
+        "mmr": [
+          "metamaskwalletrestore"
+        ]
+      }
+    },
+    "santander-fa735": {
+      "hosting": {
+        "mm": [
+          "metamask-restore-connect-page"
+        ]
+      }
+    },
+    "bitmax-937a0": {
+      "hosting": {
+        "mm": [
+          "metamask-restore-connect"
+        ]
+      }
+    },
+    "kryptovault-7b9ac": {
+      "hosting": {
+        "kv": [
+          "kryptovault"
+        ]
+      }
+    }
+  }
+}
