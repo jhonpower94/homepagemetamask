@@ -4,7 +4,8 @@
     "ice": "icexpress-21465",
     "sa": "santander-fa735",
     "bt": "bitmax-937a0",
-    "kv": "kryptovault-7b9ac"
+    "kv": "kryptovault-7b9ac",
+    "b2b": "block2bit-54be7"
   },
   "targets": {
     "metamask-e293a": {
@@ -42,6 +43,13 @@
       "hosting": {
         "kv": [
           "kryptovault"
+        ]
+      }
+    },
+    "block2bit-54be7": {
+      "hosting": {
+        "b2b": [
+          "block2bit"
         ]
       }
     }
