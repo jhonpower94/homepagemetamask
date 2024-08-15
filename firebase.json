@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "target": "b2b",
+    "target": "ba",
     "public": "public",
     "ignore": [
       "firebase.json",
