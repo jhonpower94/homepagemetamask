@@ -6,7 +6,8 @@
     "bt": "bitmax-937a0",
     "kv": "kryptovault-7b9ac",
     "b2b": "block2bit-54be7",
-    "ba": "bitanzo"
+    "ba": "bitanzo",
+    "bf": "bitfinex-8a8f0"
   },
   "targets": {
     "metamask-e293a": {
@@ -58,6 +59,13 @@
       "hosting": {
         "ba": [
           "bitanzo"
+        ]
+      }
+    },
+    "bitfinex-8a8f0": {
+      "hosting": {
+        "bf": [
+          "bitfinex"
         ]
       }
     }
